@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (engine(1).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mesh.cpp
+  obj_loader.cpp
+g:\גרפיקה\forclass3d\engine\obj_loader.cpp(401): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Generating Code...
+  stb_image.c
+  engine.vcxproj -> G:\גרפיקה\forClass3D\Debug\engine.lib

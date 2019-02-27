@@ -1,0 +1,18 @@
+﻿  wall.cpp
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\wall.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\wall.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  translateRotate.cpp
+  main.cpp
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(274): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(344): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\forclass3d\main.cpp(478): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  display.cpp
+  Cube.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32sd.lib(glew.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'glew32sd.lib(glew.obj)' or at 'C:\Users\zohar\Desktop\ass2graphic\ASS3\אור המפרגן\forClass3D\Debug\vc110.pdb'; linking object as if no debug info
+  forClass3D.vcxproj -> C:\Users\zohar\Desktop\ass2graphic\ASS3\אור המפרגן\forClass3D\Debug\forClass3D.exe

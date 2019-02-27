@@ -1,0 +1,7 @@
+﻿  shader.cpp
+  obj_loader.cpp
+c:\users\zohar\desktop\ass2graphic\ass3\אור המפרגן\forclass3d\engine\obj_loader.cpp(401): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+  Generating Code...
+  stb_image.c
+  engine.vcxproj -> C:\Users\zohar\Desktop\ass2graphic\ASS3\אור המפרגן\forClass3D\Debug\engine.lib
